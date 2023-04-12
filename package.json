@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "nuxt": "^3.3.3"
+  },
+  "dependencies": {
+    "scss": "^0.2.4",
+    "vuetify": "^3.1.14"
   }
 }
